@@ -7,3 +7,4 @@ userlib.h
 module_*.h
 bin2c
 *.compiled
+content/
