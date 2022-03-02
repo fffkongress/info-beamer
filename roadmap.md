@@ -1,9 +1,5 @@
-uhrzeit
-kommendes programm
-offene schichten
-coronareminder (qr checkin, abstand, maske etc)
 sonderinfos:suchen menschen etc
-actual insta posts
+actual insta posts, tweets
 webbased oder als livestream
 
 
