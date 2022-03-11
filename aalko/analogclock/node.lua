@@ -1,4 +1,4 @@
-gl.setup(1024, 1024)
+gl.setup(200, 200)
 
 local dot = resource.load_image "dot.png"
 local white = resource.create_colored_texture(1,1,1,1)
@@ -30,11 +30,11 @@ function node.render()
             gl.pushMatrix()
             gl.rotate(360/60*i, 0, 0, 1)
             if i % 15 == 0 then
-                white:draw(WIDTH/2.1-80, -10, WIDTH/2.1, 10, 0.8)
+                white:draw(WIDTH/2.1-16, -2, WIDTH/2.1, 2, 1)
             elseif i % 5 == 0 then
-                white:draw(WIDTH/2.1-50, -10, WIDTH/2.1, 10, 0.5)
+                white:draw(WIDTH/2.1-10, -2, WIDTH/2.1, 2, 0.8)
             else
-                white:draw(WIDTH/2.1-5, -5, WIDTH/2.1, 5, 0.5)
+                white:draw(WIDTH/2.1-5, -1, WIDTH/2.1, 1, 0.5)
             end
             gl.popMatrix()
         end
@@ -55,8 +55,8 @@ function node.render()
         fake_second = 60
     end
 
-    hand(WIDTH/4,   10, 360/12 * hour - 90)
-    hand(WIDTH/2.5, 5, 360/60 * minute - 90)
-    hand(WIDTH/2.1,  2, 360/60 * (((math.sin((fake_second-0.4) * math.pi*2)+1)/8) + fake_second) - 90)
-    dot:draw(WIDTH/2-30, HEIGHT/2-30, WIDTH/2+30, HEIGHT/2+30)
+    hand(WIDTH/4,   4, 360/12 * hour - 90)
+    hand(WIDTH/2.5, 3, 360/60 * minute - 90)
+    hand(WIDTH/2.1,  1, 360/60 * (((math.sin((fake_second-0.4) * math.pi*2)+1)/8) + fake_second) - 90)
+    dot:draw(WIDTH/2-12, HEIGHT/2-12, WIDTH/2+12, HEIGHT/2+12)
 end

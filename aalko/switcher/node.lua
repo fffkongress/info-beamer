@@ -57,6 +57,5 @@ end), interval)
 
 
 function node.render()
-    gl.clear(0, 0.02, 0.2, 1)
     switcher.draw()
 end
