@@ -1,11 +1,11 @@
 #!/bin/bash
-STREAMKEY=
+STREAMKEY=""
 
 # apt update
 # apt install liblua5.1-dev libevent-dev libglfw3-dev libglew1.5-dev libftgl-dev libavcodec-dev libswscale-dev libavformat-dev libdevil-dev libxinerama-dev libxcursor-dev libxrandr-dev libxi-dev lua5.1 libxxf86vm-dev xvfb ffmpeg
 
 # install infobeamer
-make install
+# make install
 
 # activate services
 Xvfb :2 -screen 0 1920x1080x24 &

@@ -11,10 +11,7 @@ function node.render()
     font:write(50, 50, "Welcome to aalko !", 100, 1,1,1,1)
     video:draw(1670,830,1870,1030,0.5)
     resource.render_child("analogclock"):draw(1670,50,1870,250)
-    -- programm
-    -- help
-    -- tweet
-    -- resource.render_child("corona reminder"):draw(70,200,1620,1030)
-    resource.render_child("breaking"):draw(70,200,1620,1030)
-    -- insta
+
+    resource.render_child("switcher"):draw(70,200,1620,1030)
 end
+
