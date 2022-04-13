@@ -11,3 +11,6 @@ def settime():
     ).seconds
     sock = socket(AF_INET, SOCK_DGRAM)
     sock.sendto(str.encode('aalko/analogclock/clock/set:%d' % since_midnight), ("127.0.0.1", 4444))
+
+
+settime()

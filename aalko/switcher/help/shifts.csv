@@ -1,6 +1,305 @@
 Zeit,Typ,Dauer(min),ID
-03.03.2022 10:00:00,mate kaufen,30,5
-03.04.2022 07:15:00,mate kaufen,8,4
-05.04.2022 18:00:00,essen,45,6
-15.04.2022 10:02:00,putzen,60,2
-06.05.2022 14:30:00,kuscheln,180,7
+08.04 16:00,Backup posten,360,1
+08.04 17:00,Aufsicht Camp,190,2
+08.04 17:00,Aufsicht Camp,190,5
+08.04 17:00,essen vorbereiten,90,4
+08.04 17:00,essen vorbereiten,90,9
+08.04 17:00,essen vorbereiten,90,10
+08.04 17:00,essen vorbereiten,90,11
+08.04 17:00,essen vorbereiten,90,12
+08.04 17:00,essen vorbereiten,90,13
+08.04 17:00,Infopoint,190,3
+08.04 17:00,Infopoint,190,6
+08.04 17:00,Infopoint,190,7
+08.04 17:00,Infopoint,190,8
+08.04 18:45,abwaschen ,45,14
+08.04 18:45,abwaschen ,45,15
+08.04 18:45,abwaschen ,45,16
+08.04 18:45,abwaschen ,45,17
+08.04 20:00,Aufsicht Camp,190,19
+08.04 20:00,Aufsicht Camp,190,21
+08.04 20:00,Infopoint,190,18
+08.04 20:00,Infopoint,190,20
+08.04 20:00,Infopoint,190,22
+08.04 20:00,Infopoint,190,23
+08.04 20:00,Infopoint,190,24
+08.04 23:00,Backup posten,360,25
+08.04 23:00,Nachtwache Camp,195,26
+08.04 23:00,Nachtwache Camp,195,27
+09.04 02:00,Nachtwache Camp,165,28
+09.04 02:00,Nachtwache Camp,165,29
+09.04 04:30,Nachtwache Camp,165,30
+09.04 04:30,Nachtwache Camp,165,31
+09.04 05:00,Backup posten,360,32
+09.04 07:00,Aufsicht Camp,190,33
+09.04 07:00,Aufsicht Camp,190,36
+09.04 07:00,essen vorbereiten,90,35
+09.04 07:00,essen vorbereiten,90,38
+09.04 07:00,essen vorbereiten,90,39
+09.04 07:00,essen vorbereiten,90,40
+09.04 07:00,essen vorbereiten,90,41
+09.04 07:00,essen vorbereiten,90,42
+09.04 07:00,Infopoint,190,34
+09.04 07:00,Infopoint,190,37
+09.04 08:45,abwaschen ,45,43
+09.04 08:45,abwaschen ,45,44
+09.04 08:45,abwaschen ,45,45
+09.04 08:45,abwaschen ,45,46
+09.04. 09:30,Aufräumen,120,47
+09.04. 09:30,Aufräumen,120,49
+09.04. 09:30,Aufräumen,120,50
+09.04. 09:30,Aufräumen,120,51
+09.04. 09:30,Sanitäre Einrichtungen,60,48
+09.04. 09:30,Sanitäre Einrichtungen,60,52
+09.04. 09:30,Sanitäre Einrichtungen,60,53
+09.04. 09:30,Sanitäre Einrichtungen,60,54
+09.04. 09:30,Sanitäre Einrichtungen,60,55
+09.04. 09:30,Sanitäre Einrichtungen,60,56
+09.04. 09:30,Sanitäre Einrichtungen,60,57
+09.04 10:00,Aufsicht Camp,190,58
+09.04 10:00,Aufsicht Camp,190,60
+09.04 10:00,Infopoint,190,59
+09.04 10:00,Infopoint,190,61
+09.04 11:00,Backup posten,360,62
+09.04 11:00,essen vorbereiten,90,63
+09.04 11:00,essen vorbereiten,90,64
+09.04 11:00,essen vorbereiten,90,65
+09.04 11:00,essen vorbereiten,90,66
+09.04 11:00,essen vorbereiten,90,67
+09.04 11:00,essen vorbereiten,90,68
+09.04 12:45,abwaschen ,45,70
+09.04 12:45,abwaschen ,45,73
+09.04 12:45,abwaschen ,45,74
+09.04 12:45,abwaschen ,45,75
+09.04 12:45,Kiosk,120,69
+09.04 12:45,Kiosk,120,71
+09.04 12:45,Kiosk,120,72
+09.04 13:00,Aufsicht Camp,190,76
+09.04 13:00,Aufsicht Camp,190,78
+09.04 13:00,Infopoint,190,77
+09.04 13:00,Infopoint,190,79
+09.04. 14:30,Sanitäre Einrichtungen,60,80
+09.04. 14:30,Sanitäre Einrichtungen,60,81
+09.04. 14:30,Sanitäre Einrichtungen,60,82
+09.04. 14:30,Sanitäre Einrichtungen,60,83
+09.04. 14:30,Sanitäre Einrichtungen,60,84
+09.04. 14:30,Sanitäre Einrichtungen,60,85
+09.04. 14:30,Sanitäre Einrichtungen,60,86
+09.04 16:00,Aufsicht Camp,190,88
+09.04 16:00,Aufsicht Camp,190,90
+09.04 16:00,Backup posten,360,87
+09.04 16:00,Infopoint,190,89
+09.04 16:00,Infopoint,190,91
+09.04 17:00,essen vorbereiten,90,92
+09.04 17:00,essen vorbereiten,90,93
+09.04 17:00,essen vorbereiten,90,94
+09.04 17:00,essen vorbereiten,90,95
+09.04 17:00,essen vorbereiten,90,96
+09.04 17:00,essen vorbereiten,90,97
+09.04 18:45,abwaschen ,45,98
+09.04 18:45,abwaschen ,45,99
+09.04 18:45,abwaschen ,45,100
+09.04 18:45,abwaschen ,45,101
+09.04 19:00,Aufsicht Camp,190,102
+09.04 19:00,Aufsicht Camp,190,104
+09.04 19:00,Infopoint,190,103
+09.04 19:00,Infopoint,190,105
+09.04 23:00,Backup posten,360,106
+09.04 23:00,Nachtwache Camp,195,107
+09.04 23:00,Nachtwache Camp,195,108
+10.04 02:00,Nachtwache Camp,165,109
+10.04 02:00,Nachtwache Camp,165,110
+10.04 04:30,Nachtwache Camp,165,111
+10.04 04:30,Nachtwache Camp,165,112
+10.04 05:00,Backup posten,360,113
+10.04 07:00,Aufsicht Camp,190,114
+10.04 07:00,Aufsicht Camp,190,117
+10.04 07:00,essen vorbereiten,90,116
+10.04 07:00,essen vorbereiten,90,119
+10.04 07:00,essen vorbereiten,90,120
+10.04 07:00,essen vorbereiten,90,121
+10.04 07:00,essen vorbereiten,90,122
+10.04 07:00,essen vorbereiten,90,123
+10.04 07:00,Infopoint,190,115
+10.04 07:00,Infopoint,190,118
+10.04 08:45,abwaschen ,45,124
+10.04 08:45,abwaschen ,45,125
+10.04 08:45,abwaschen ,45,126
+10.04 08:45,abwaschen ,45,127
+10.04. 09:30,Aufräumen,120,128
+10.04. 09:30,Aufräumen,120,130
+10.04. 09:30,Aufräumen,120,131
+10.04. 09:30,Aufräumen,120,132
+10.04. 09:30,Sanitäre Einrichtungen,60,129
+10.04. 09:30,Sanitäre Einrichtungen,60,133
+10.04. 09:30,Sanitäre Einrichtungen,60,134
+10.04. 09:30,Sanitäre Einrichtungen,60,135
+10.04. 09:30,Sanitäre Einrichtungen,60,136
+10.04. 09:30,Sanitäre Einrichtungen,60,137
+10.04. 09:30,Sanitäre Einrichtungen,60,138
+10.04 10:00,Aufsicht Camp,190,139
+10.04 10:00,Aufsicht Camp,190,141
+10.04 10:00,Infopoint,190,140
+10.04 10:00,Infopoint,190,142
+10.04 11:00,Backup posten,360,143
+10.04 11:00,essen vorbereiten,90,144
+10.04 11:00,essen vorbereiten,90,145
+10.04 11:00,essen vorbereiten,90,146
+10.04 11:00,essen vorbereiten,90,147
+10.04 11:00,essen vorbereiten,90,148
+10.04 11:00,essen vorbereiten,90,149
+10.04 12:45,abwaschen ,45,151
+10.04 12:45,abwaschen ,45,154
+10.04 12:45,abwaschen ,45,155
+10.04 12:45,abwaschen ,45,156
+10.04 12:45,Kiosk,120,150
+10.04 12:45,Kiosk,120,152
+10.04 12:45,Kiosk,120,153
+10.04 13:00,Aufsicht Camp,190,157
+10.04 13:00,Aufsicht Camp,190,159
+10.04 13:00,Infopoint,190,158
+10.04 13:00,Infopoint,190,160
+10.04. 14:30,Sanitäre Einrichtungen,60,161
+10.04. 14:30,Sanitäre Einrichtungen,60,162
+10.04. 14:30,Sanitäre Einrichtungen,60,163
+10.04. 14:30,Sanitäre Einrichtungen,60,164
+10.04. 14:30,Sanitäre Einrichtungen,60,165
+10.04. 14:30,Sanitäre Einrichtungen,60,166
+10.04. 14:30,Sanitäre Einrichtungen,60,167
+10.04 16:00,Aufsicht Camp,190,169
+10.04 16:00,Aufsicht Camp,190,171
+10.04 16:00,Backup posten,360,168
+10.04 16:00,Infopoint,190,170
+10.04 16:00,Infopoint,190,172
+10.04 17:00,essen vorbereiten,90,173
+10.04 17:00,essen vorbereiten,90,174
+10.04 17:00,essen vorbereiten,90,175
+10.04 17:00,essen vorbereiten,90,176
+10.04 17:00,essen vorbereiten,90,177
+10.04 17:00,essen vorbereiten,90,178
+10.04 18:45,abwaschen ,45,179
+10.04 18:45,abwaschen ,45,180
+10.04 18:45,abwaschen ,45,181
+10.04 18:45,abwaschen ,45,182
+10.04 19:00,Aufsicht Camp,190,183
+10.04 19:00,Aufsicht Camp,190,185
+10.04 19:00,Infopoint,190,184
+10.04 19:00,Infopoint,190,186
+10.04 23:00,Backup posten,360,187
+10.04 23:00,Nachtwache Camp,195,188
+10.04 23:00,Nachtwache Camp,195,189
+11.04 02:00,Nachtwache Camp,165,190
+11.04 02:00,Nachtwache Camp,165,191
+11.04 04:30,Nachtwache Camp,165,192
+11.04 04:30,Nachtwache Camp,165,193
+11.04 05:00,Backup posten,360,194
+11.04 07:00,Aufsicht Camp,190,195
+11.04 07:00,Aufsicht Camp,190,198
+11.04 07:00,essen vorbereiten,90,197
+11.04 07:00,essen vorbereiten,90,200
+11.04 07:00,essen vorbereiten,90,201
+11.04 07:00,essen vorbereiten,90,202
+11.04 07:00,essen vorbereiten,90,203
+11.04 07:00,essen vorbereiten,90,204
+11.04 07:00,Infopoint,190,196
+11.04 07:00,Infopoint,190,199
+11.04 08:45,abwaschen ,45,205
+11.04 08:45,abwaschen ,45,206
+11.04 08:45,abwaschen ,45,207
+11.04 08:45,abwaschen ,45,208
+11.04. 09:30,Aufräumen,120,209
+11.04. 09:30,Aufräumen,120,211
+11.04. 09:30,Aufräumen,120,212
+11.04. 09:30,Aufräumen,120,213
+11.04. 09:30,Sanitäre Einrichtungen,60,210
+11.04. 09:30,Sanitäre Einrichtungen,60,214
+11.04. 09:30,Sanitäre Einrichtungen,60,215
+11.04. 09:30,Sanitäre Einrichtungen,60,216
+11.04. 09:30,Sanitäre Einrichtungen,60,217
+11.04. 09:30,Sanitäre Einrichtungen,60,218
+11.04. 09:30,Sanitäre Einrichtungen,60,219
+11.04 10:00,Aufsicht Camp,190,220
+11.04 10:00,Aufsicht Camp,190,222
+11.04 10:00,Infopoint,190,221
+11.04 10:00,Infopoint,190,223
+11.04 11:00,Backup posten,360,224
+11.04 11:00,essen vorbereiten,90,225
+11.04 11:00,essen vorbereiten,90,226
+11.04 11:00,essen vorbereiten,90,227
+11.04 11:00,essen vorbereiten,90,228
+11.04 11:00,essen vorbereiten,90,229
+11.04 11:00,essen vorbereiten,90,230
+11.04 12:45,abwaschen ,45,232
+11.04 12:45,abwaschen ,45,235
+11.04 12:45,abwaschen ,45,236
+11.04 12:45,abwaschen ,45,237
+11.04 12:45,Kiosk,120,231
+11.04 12:45,Kiosk,120,233
+11.04 12:45,Kiosk,120,234
+11.04 13:00,Aufsicht Camp,190,238
+11.04 13:00,Aufsicht Camp,190,240
+11.04 13:00,Infopoint,190,239
+11.04 13:00,Infopoint,190,241
+11.04. 14:30,Aufräumen,120,242
+11.04. 14:30,Aufräumen,120,245
+11.04. 14:30,Aufräumen,120,246
+11.04. 14:30,Aufräumen,120,247
+11.04. 14:30,Sanitäre Einrichtungen,60,243
+11.04. 14:30,Sanitäre Einrichtungen,60,244
+11.04. 14:30,Sanitäre Einrichtungen,60,248
+11.04. 14:30,Sanitäre Einrichtungen,60,249
+11.04. 14:30,Sanitäre Einrichtungen,60,250
+11.04. 14:30,Sanitäre Einrichtungen,60,251
+11.04. 14:30,Sanitäre Einrichtungen,60,252
+11.04. 14:30,Sanitäre Einrichtungen,60,253
+11.04. 14:30,Sanitäre Einrichtungen,60,254
+11.04. 14:30,Sanitäre Einrichtungen,60,255
+11.04. 14:30,Sanitäre Einrichtungen,60,256
+11.04. 14:30,Sanitäre Einrichtungen,60,257
+11.04. 14:30,Sanitäre Einrichtungen,60,258
+11.04. 14:30,Sanitäre Einrichtungen,60,259
+11.04 16:00,Aufsicht Camp,190,261
+11.04 16:00,Aufsicht Camp,190,263
+11.04 16:00,Backup posten,360,260
+11.04 16:00,Infopoint,190,262
+11.04 16:00,Infopoint,190,264
+11.04 17:00,essen vorbereiten,90,265
+11.04 17:00,essen vorbereiten,90,266
+11.04 17:00,essen vorbereiten,90,267
+11.04 17:00,essen vorbereiten,90,268
+11.04 17:00,essen vorbereiten,90,269
+11.04 17:00,essen vorbereiten,90,270
+11.04 18:45,abwaschen ,45,271
+11.04 18:45,abwaschen ,45,272
+11.04 18:45,abwaschen ,45,273
+11.04 18:45,abwaschen ,45,274
+11.04 19:00,Aufsicht Camp,190,275
+11.04 19:00,Aufsicht Camp,190,277
+11.04 19:00,Infopoint,190,276
+11.04 19:00,Infopoint,190,278
+11.04 23:00,Backup posten,360,279
+11.04 23:00,Nachtwache Camp,195,280
+11.04 23:00,Nachtwache Camp,195,281
+12.04 02:00,Nachtwache Camp,165,282
+12.04 02:00,Nachtwache Camp,165,283
+12.04 04:30,Nachtwache Camp,165,284
+12.04 04:30,Nachtwache Camp,165,285
+12.04 05:00,Backup posten,360,286
+12.04 07:00,abwaschen ,45,289
+12.04 07:00,abwaschen ,45,293
+12.04 07:00,abwaschen ,45,294
+12.04 07:00,abwaschen ,45,295
+12.04 07:00,Aufsicht Camp,190,287
+12.04 07:00,Aufsicht Camp,190,291
+12.04 07:00,essen vorbereiten,90,290
+12.04 07:00,essen vorbereiten,90,296
+12.04 07:00,essen vorbereiten,90,297
+12.04 07:00,essen vorbereiten,90,298
+12.04 07:00,essen vorbereiten,90,299
+12.04 07:00,essen vorbereiten,90,300
+12.04 07:00,Infopoint,190,288
+12.04 07:00,Infopoint,190,292
+12.04 10:00,Aufsicht Camp,190,301
+12.04 10:00,Aufsicht Camp,190,303
+12.04 10:00,Infopoint,190,302
+12.04 10:00,Infopoint,190,304

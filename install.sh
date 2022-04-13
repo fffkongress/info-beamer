@@ -1,8 +1,12 @@
 #!/bin/bash
-STREAMKEY=
+STREAMKEY="0tmu-9v1v-jbyp-12jc-1wy8"
 
 # apt update
-# apt install liblua5.1-dev libevent-dev libglfw3-dev libglew1.5-dev libftgl-dev libavcodec-dev libswscale-dev libavformat-dev libdevil-dev libxinerama-dev libxcursor-dev libxrandr-dev libxi-dev lua5.1 libxxf86vm-dev xvfb ffmpeg
+# apt install liblua5.1-dev libevent-dev libglfw3-dev libglew1.5-dev libftgl-dev libavcodec-dev libswscale-dev libavformat-dev libdevil-dev libxinerama-dev libxcursor-dev libxrandr-dev libxi-dev lua5.1 libxxf86vm-dev xvfb ffmpeg make
+# install python3.10 python3-pip python-twitter
+
+# install cron.sh
+# install service
 
 # install infobeamer
 # make install
